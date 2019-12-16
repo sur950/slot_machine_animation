@@ -2,7 +2,14 @@
 
 ### The project involves a slot machine animation based on the concept of a vending machine, where winner is decided by the game of chance.
 
-### Can be used as a package as well.
+### Can it be used as a package as well?
+```
+yes we publish it as package 
+as well , with only three parmas
+required for it. 
+
+```
+
 ```
 LuckyDarw(
 
